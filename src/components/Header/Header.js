@@ -13,10 +13,13 @@ const Header = () => {
                 <Navbar.Collapse id="responsive-navbar-nav">
             
                 <Nav className="justify-content-center">
-                       <Nav.Link href="#features">Features</Nav.Link>
-                       <Nav.Link href="#pricing">Pricing</Nav.Link>
-                       <Nav.Link href="#deets">More deets</Nav.Link>
-                       <Nav.Link  href="#memes">Dank memes</Nav.Link>
+                       <Nav.Link href="#">Home</Nav.Link>
+                       <Nav.Link href="#">About</Nav.Link>
+                       <Nav.Link href="#">Projects</Nav.Link>
+                       <Nav.Link  href="#">Experience</Nav.Link>
+                       <Nav.Link href="#">Education</Nav.Link>
+                       <Nav.Link href="#">Contact</Nav.Link>
+                       
                 </Nav>
             
                 </Navbar.Collapse>

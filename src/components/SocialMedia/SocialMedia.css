@@ -1,0 +1,20 @@
+.socialMedia{
+    margin-right:100px;
+    padding:10px;
+}
+
+.socialMedia a{
+    padding: 5px;
+}
+
+
+
+
+
+ 
+
+.socialMedia a:hover{
+    color: #ffee10;
+    box-shadow: 0 0  #ffee10;
+    text-shadow: 0 0  #ffee10;
+}
