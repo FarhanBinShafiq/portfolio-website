@@ -1,0 +1,20 @@
+.aboutbg{
+    background-color: rgb(105, 255, 193);
+}
+.aboutInformation{
+    padding-top: 80px;
+    margin-right: 50px;
+   
+}
+
+.aboutpic{
+    position:static;
+    padding: 20px;
+    border:2px solid violet ;
+
+}
+
+button{
+    margin: 10px;
+}
+
