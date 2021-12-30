@@ -1,6 +1,17 @@
 .nav-head{
     background-color: brown;
-    font-weight: 800px;
-    font-style: italic;
+}
+
+.nav-menu{
+    padding: 10px;
+    margin-right: 250px;
+    font-variant: inherit;
+    font-size:25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     
+    
+}
+
+.nav-menu:hover Nav.Link{
+    background-color: khaki;
 }

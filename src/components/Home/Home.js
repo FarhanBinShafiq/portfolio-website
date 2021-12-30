@@ -1,7 +1,5 @@
 import React from 'react';
 import {Button, Image} from 'react-bootstrap';
-
-
 import farhan from '../../Images/farhan.png'
 import SocialMedia from '../SocialMedia/SocialMedia';
 
